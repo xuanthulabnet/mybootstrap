@@ -12,7 +12,7 @@ module.exports = function(grunt) {
     
             build: {
                 files: {
-                    'build/test.css' : 'src/test.scss'
+                    'build/mybootstrap.css' : 'src/mybootstrap.scss'
                 }
             }
         }

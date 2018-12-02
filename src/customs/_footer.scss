@@ -1,0 +1,12 @@
+.myfooter {
+    background-color: $blue;
+    color: $yellow;
+    border: 1px solid green;
+
+    a {
+        text-decoration: none;
+        :hover {
+            color: red;
+        }
+    }
+}
