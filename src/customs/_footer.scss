@@ -2,11 +2,14 @@
     background-color: $blue;
     color: $yellow;
     border: 1px solid green;
+ 
+    box-shadow: 2px 2px red;
+
 
     a {
         text-decoration: none;
         :hover {
-            color: red;
+            color: #333333;
         }
     }
 }
