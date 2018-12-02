@@ -1,0 +1,16 @@
+$background: red;
+$color: white;
+
+body {
+    background-color: $background;
+    color: $color;
+    .header {
+        background: white;
+        color: green;
+        border: 1px solid gray;
+
+        span {
+            font-weight: 700;
+        }
+    }
+}
